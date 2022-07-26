@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Module_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React-Components/demo_react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/React_OverView/my-app" vcs="Git" />
   </component>
 </project>
